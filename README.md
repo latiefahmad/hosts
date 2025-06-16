@@ -8,9 +8,7 @@ Tambahkan list di bawah ke /etc/hosts.
 2. Ketik notepad [%WinDir%\System32\Drivers\etc\hosts]
 3. Tambahkan list di bawah ini ke file hosts
 
-# ---------------------------------------------------
 # Vimeo
-# ---------------------------------------------------
 
 151.101.64.217    player.vimeo.com
 151.101.129.194   vimeo-hp-videos.global.ssl.fastly.net
@@ -20,9 +18,7 @@ Tambahkan list di bawah ke /etc/hosts.
 151.101.64.217    developer.vimeo.com
 66.6.33.149       vimeo.tumblr.com
 
-# ---------------------------------------------------
 # Reddit
-# ---------------------------------------------------
 
 151.101.129.140   i.redditmedia.com
 52.34.230.181     www.reddithelp.com
@@ -54,9 +50,7 @@ Tambahkan list di bawah ke /etc/hosts.
 52.207.213.188    sendbirdproxy-003d8d1fb8653f6f8.chat.redditmedia.com
 34.226.121.89     sendbirdproxy-04ea6c3f71aac3e3f.chat.redditmedia.com
 
-# ---------------------------------------------------
 # Imgur
-# ---------------------------------------------------
 
 107.21.3.138      apidocs.imgur.com
 151.101.36.193    api.imgur.com
@@ -70,9 +64,7 @@ Tambahkan list di bawah ke /etc/hosts.
 151.101.60.193    imgur.com
 151.101.36.193    m.imgur.com
 
-# ---------------------------------------------------
 # Netflix
-# ---------------------------------------------------
 
 45.57.90.1        assets.nflxext.com
 34.252.74.1       ir.netflix.com
